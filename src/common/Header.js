@@ -10,6 +10,11 @@ function Header() {
           </a>
         </li>
         <li className="nav-item">
+          <a className="nav-item" href="/courses">
+            Courses
+          </a>
+        </li>
+        <li className="nav-item">
           <a className="nav-item" href="/about">
             About
           </a>
